@@ -1,0 +1,98 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 18561637900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should be able to delete an item from shopping cart successfully",
+        "description": "",
+        "id": "delete-item-from-shopping-cart;user-should-be-able-to-delete-an-item-from-shopping-cart-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 1751552000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5117712900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "There is an item already inside my basket",
+            "match": {
+              "location": "DeleteItemSteps.thereIsAnItemAlreadyInsideMyBasket()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 262070200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User clicks on Shopping cart",
+            "match": {
+              "location": "DeleteItemSteps.userClicksOnShoppingCart()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 174860600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User clicks on delete button",
+            "match": {
+              "location": "DeleteItemSteps.userClicksOnDeleteButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 88625800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User can verify banner message \"Your shopping cart is empty.\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Your shopping cart is empty.",
+                  "offset": 32
+                }
+              ],
+              "location": "DeleteItemSteps.userCanVerifyBannerMessage(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Delete item from shopping cart",
+    "description": "As a user I should be able to delete an item from the shopping cart",
+    "id": "delete-item-from-shopping-cart",
+    "keyword": "Feature",
+    "uri": "src/test/java/resources/featurefile/DeleteItemFromBasket.feature"
+  }
+]

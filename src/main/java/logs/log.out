@@ -1,0 +1,52 @@
+2021-12-26 10:12:570 INFO  ManageDriver :38 - Launching chrome 
+2021-12-26 10:12:361 INFO  ManageDriver :38 - Launching chrome 
+2021-12-26 10:12:855 INFO  ManageDriver :38 - Launching chrome 
+2021-12-26 10:12:395 INFO  ManageDriver :38 - Launching chrome 
+2021-12-26 10:12:723 INFO  ManageDriver :38 - Launching chrome 
+2021-12-26 10:12:461 INFO  ManageDriver :38 - Launching chrome 
+2021-12-26 10:12:976 INFO  HomePage :50 - Clicking Tshirts tab  [[ChromeDriver: chrome on WINDOWS (fa7c9f1f152a470c4c00606b0990fc7a)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[6]/ul[1]/li[3]/a[1]]
+2021-12-26 10:12:129 INFO  ManageDriver :38 - Launching chrome 
+2021-12-26 10:12:606 INFO  HomePage :50 - Clicking Tshirts tab  [[ChromeDriver: chrome on WINDOWS (5bb807cff98fbe08d0e0c6200af5a7dd)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[6]/ul[1]/li[3]/a[1]]
+2021-12-26 10:12:43 INFO  ManageDriver :38 - Launching chrome 
+2021-12-26 10:12:103 INFO  HomePage :50 - Clicking Tshirts tab  [[ChromeDriver: chrome on WINDOWS (c85ad653158d834dd68be6404d79e083)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[6]/ul[1]/li[3]/a[1]]
+2021-12-26 10:12:836 INFO  ManageDriver :38 - Launching chrome 
+2021-12-26 10:12:725 INFO  ManageDriver :38 - Launching chrome 
+2021-12-26 10:12:232 INFO  ManageDriver :38 - Launching chrome 
+2021-12-26 10:12:726 INFO  ManageDriver :38 - Launching chrome 
+2021-12-26 10:12:769 INFO  HomePage :57 - Clicking on sign in link  [[ChromeDriver: chrome on WINDOWS (629ec358c0e277f4bcaf13cf39b9d640)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-26 10:12:477 INFO  CreateAccountPage :107 - Entering first name  [[ChromeDriver: chrome on WINDOWS (629ec358c0e277f4bcaf13cf39b9d640)] -> id: customer_firstname]
+2021-12-26 10:12:628 INFO  CreateAccountPage :112 - Entering last name  [[ChromeDriver: chrome on WINDOWS (629ec358c0e277f4bcaf13cf39b9d640)] -> id: customer_lastname]
+2021-12-26 10:12:822 INFO  CreateAccountPage :127 - Entering password  [[ChromeDriver: chrome on WINDOWS (629ec358c0e277f4bcaf13cf39b9d640)] -> id: passwd]
+2021-12-26 10:12:51 INFO  CreateAccountPage :117 - Entering first name  [[ChromeDriver: chrome on WINDOWS (629ec358c0e277f4bcaf13cf39b9d640)] -> id: customer_firstname]
+2021-12-26 10:12:195 INFO  CreateAccountPage :122 - Entering last name  [[ChromeDriver: chrome on WINDOWS (629ec358c0e277f4bcaf13cf39b9d640)] -> id: customer_lastname]
+2021-12-26 10:12:341 INFO  CreateAccountPage :76 - Entering reference  [[ChromeDriver: chrome on WINDOWS (629ec358c0e277f4bcaf13cf39b9d640)] -> id: address1]
+2021-12-26 10:12:483 INFO  CreateAccountPage :81 - Entering city  [[ChromeDriver: chrome on WINDOWS (629ec358c0e277f4bcaf13cf39b9d640)] -> id: city]
+2021-12-26 10:12:608 INFO  CreateAccountPage :102 - Selecting state [[ChromeDriver: chrome on WINDOWS (629ec358c0e277f4bcaf13cf39b9d640)] -> id: id_state]
+2021-12-26 10:12:668 INFO  CreateAccountPage :87 - Entering zip code  [[ChromeDriver: chrome on WINDOWS (629ec358c0e277f4bcaf13cf39b9d640)] -> id: id_state]
+2021-12-26 10:12:789 INFO  CreateAccountPage :92 - Entering phone number  [[ChromeDriver: chrome on WINDOWS (629ec358c0e277f4bcaf13cf39b9d640)] -> id: phone_mobile]
+2021-12-26 10:12:919 INFO  CreateAccountPage :97 - Entering reference  [[ChromeDriver: chrome on WINDOWS (629ec358c0e277f4bcaf13cf39b9d640)] -> id: alias]
+2021-12-26 10:12:282 INFO  CreateAccountPage :71 - Clicking on Register button  [[ChromeDriver: chrome on WINDOWS (629ec358c0e277f4bcaf13cf39b9d640)] -> xpath: //span[normalize-space()='Register']]
+2021-12-27 19:12:177 INFO  ManageDriver :38 - Launching chrome 
+2021-12-27 19:12:910 INFO  HomePage :70 - Clicking Tshirts tab  [[ChromeDriver: chrome on WINDOWS (a1ae5ad4243ce1878713c24f34c14f6b)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[6]/ul[1]/li[3]/a[1]]
+2021-12-27 19:12:799 INFO  ManageDriver :38 - Launching chrome 
+2021-12-27 19:12:361 INFO  ManageDriver :38 - Launching chrome 
+2021-12-27 19:12:388 INFO  HomePage :70 - Clicking Tshirts tab  [[ChromeDriver: chrome on WINDOWS (98c5a7d3f90c38963f3914c34dda376f)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[6]/ul[1]/li[3]/a[1]]
+2021-12-27 19:12:756 INFO  ManageDriver :38 - Launching chrome 
+2021-12-27 19:12:210 INFO  ManageDriver :38 - Launching chrome 
+2021-12-27 20:12:309 INFO  ManageDriver :38 - Launching chrome 
+2021-12-27 20:12:427 INFO  HomePage :70 - Clicking Tshirts tab  [[ChromeDriver: chrome on WINDOWS (cb55f295a6e6deb2ea278c46818d0027)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[6]/ul[1]/li[3]/a[1]]
+2021-12-28 19:12:270 INFO  ManageDriver :38 - Launching chrome 
+2021-12-28 19:12:374 INFO  ManageDriver :38 - Launching chrome 
+2021-12-28 19:12:07 INFO  HomePage :70 - Clicking Tshirts tab  [[ChromeDriver: chrome on WINDOWS (b016fbd7b929ba8547d01f50650f3c97)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[6]/ul[1]/li[3]/a[1]]
+2021-12-28 19:12:705 INFO  ManageDriver :38 - Launching chrome 
+2021-12-28 19:12:86 INFO  ManageDriver :38 - Launching chrome 
+2021-12-28 19:12:28 INFO  ManageDriver :38 - Launching chrome 
+2021-12-28 19:12:665 INFO  ProductPage :51 - Clicking on add to cart button  [[ChromeDriver: chrome on WINDOWS (ed032ad1e0585b8cc0f4a9320895d7ee)] -> xpath: //button[@name='Submit']]
+2021-12-28 19:12:340 INFO  ManageDriver :38 - Launching chrome 
+2021-12-28 19:12:442 INFO  ProductPage :51 - Clicking on add to cart button  [[ChromeDriver: chrome on WINDOWS (e51c991bbb11432dfe4cc337611d5c09)] -> xpath: //button[@name='Submit']]
+2021-12-28 19:12:481 INFO  ManageDriver :38 - Launching chrome 
+2021-12-28 19:12:379 INFO  ProductPage :53 - Clicking on add to cart button  [[ChromeDriver: chrome on WINDOWS (7764b6e921dd50ee8ff29d90e0f4b769)] -> xpath: //span[normalize-space()='Add to cart']]
+2021-12-28 19:12:453 INFO  ManageDriver :38 - Launching chrome 
+2021-12-28 19:12:400 INFO  ProductPage :53 - Clicking on add to cart button  [[ChromeDriver: chrome on WINDOWS (be61b4b4f7e605a6c3827ee2baedcd6d)] -> xpath: //span[normalize-space()='Add to cart']]
+2021-12-28 19:12:909 INFO  ManageDriver :38 - Launching chrome 
+2021-12-28 19:12:251 INFO  ProductPage :61 - Clicking on add to cart button  [[ChromeDriver: chrome on WINDOWS (2664beecd657fdc3d98b75303bc80801)] -> xpath: //span[normalize-space()='Add to cart']]
